@@ -1,0 +1,9 @@
+<svg focusable="false" width="24" height="24" viewBox="0 0 24 24" fill="#111111" xmlns="http://www.w3.org/2000/svg" class="hnf-svg-icon hnf-svg-bag-default hnf-btn__icon">
+     <path fill="#FF0303" d="M4 12h16v1H4z"></path>
+     <path fill="#FF7C03" d="M4 13h16v1H4z"></path>
+     <path fill="#FAFF03" d="M4 14h16v1H4z"></path>
+     <path fill="#72FF03" d="M4 15h16v1H4z"></path>
+     <path fill="#2603FF" d="M4 16h16v1H4z"></path>
+     <path fill="#9F03FF" d="M5 17h14v1H5z"></path>
+     <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9999 4h-.5621l-.2922.4802-3.357 5.517h-5.069l.3107 1.2425 1.6212 6.4851c.3339 1.3355 1.5339 2.2724 2.9105 2.2724h10.877c1.3766 0 2.5765-.9369 2.9104-2.2724l1.6213-6.4851.3106-1.2425h-5.0695l-3.3574-5.517L13.5623 4h-2.5624zm3.8707 5.9972L12.4381 6h-.8761L9.1297 9.9972h5.7409zm-9.2787 7.2425-1.3106-5.2425h15.4384l-1.3106 5.2425a1 1 0 0 1-.9701.7575H6.562a1 1 0 0 1-.97-.7575z"></path>
+    </svg>
